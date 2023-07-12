@@ -40,51 +40,51 @@ const Category = () => {
                   <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Adidas</p>
                 </Link>
-                <div>
-                  <Link to="/nike"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                <Link to="/nike">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Nike</p>
-                </div>
-                <div>
-                  <Link to="/balenciaga"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/balenciaga">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Balenciaga</p>
-                </div>
-                <div>
-                  <Link to="/vans"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/vans">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Vans</p>
-                </div>
-                <div>
-                  <Link to="/skechers"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/skechers">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Skechers</p>
-                </div>
+                </Link>
                 
-                <div>
-                  <Link to="/puma"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                <Link to="/puma">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Puma</p>
-                </div>
-                <div>
-                  <Link to="/reebok"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/reebok">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Reebok</p>
-                </div>
-                <div>
-                  <Link to="/new-balance"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/new-balance">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">New Balance</p>
-                </div>
-                <div>
-                  <Link to="/crocs-slides"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/crocs-slides">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Crocs & Slides</p>
-                </div>
-                <div>
-                  <Link to="/converse"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/converse">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Converse</p>
-                </div>
-                <div>
-                  <Link to="/jordans"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/jordans">
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Jordans</p>
-                </div>
-                <div>
-                  <Link to="/boots"><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></Link>
+                </Link>
+                <Link to="/boots"> 
+                  <span ><img className="border border-neutral-700 hover:-translate-y-2 duration-300" src="https://wordpress.templatemela.com/woo/WCM05/WCM050102/wp-content/uploads/2019/06/product-category.jpg" alt="" /></span>
                   <p className="p-4 text-center">Boots</p>
-                </div>
+                </Link>
               </div>
             </div>
             {/* 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 */}
